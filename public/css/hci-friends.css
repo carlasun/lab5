@@ -9,6 +9,15 @@
 	color: #CC00AA;
 }
 
+.friend {
+max-width:400px;
+}
+
+.friend img{
+border-radius: 40px;
+max-width:400px;
+}
+
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
